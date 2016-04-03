@@ -1,0 +1,59 @@
+body{
+	font-family: 'Lato', sans-serif;
+}
+img{
+	max-width: 100%;
+}
+
+.quitar-float{ /*cuando hay un . es una clase  || else: nombre etiqueta */
+	float: none;
+}
+.pacifico{
+	font-family: 'Pacifico', cursive;
+}
+.se-gris{
+	background-color: #B2B2B2;
+}
+.mediano{
+	font-size: 1.5em;
+}
+.retraso-1{
+	-webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	animation-delay: 1s;
+}
+.retraso-05{
+	-webkit-animation-delay: 0.5s;
+	-moz-animation-delay: 0.5s;
+	animation-delay: 0.5s;
+}
+.arriba{
+	vertical-align: top;
+}
+.padding-largo{
+	padding: 5px 10px;
+}
+.grande{
+	font-size: 4em;
+}
+.verde{
+	color: #005555;
+}
+.espacio-derecha{
+	margin-right: 1em;
+}
+.no-lista li{
+	list-style-type: none;
+}
+.no-lista{
+	margin: 0px;
+	padding: 0px;
+}
+.inline-block{
+	float: none;
+	display: inline-block;
+	margin-right: -4;
+}
+a, .azul{
+	color: #009E9E;
+}
